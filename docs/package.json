@@ -51,7 +51,7 @@
     "react-innertext": "^1.1.5",
     "react-intersection-observer": "^8.26.2",
     "react-keyframes": "^1.0.0-canary.3",
-    "swr": "^1.0.1",
+    "swr": "^1.2.0",
     "title": "^3.4.3"
   },
   "devDependencies": {
